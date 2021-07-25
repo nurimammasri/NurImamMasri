@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Bnurimammasri%7D/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/nurimammasri/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ Repo
 
