@@ -6,7 +6,7 @@
   I love various things about technology and follow a lot of learning media by taking courses on Android Development Native (Kotlin / Java), Android Development Multiplatform (Flutter), Data Science, Machine Learning, etc. Professionally, I implement a lot of my skills in various projects; personally, I want to build a startup business to support my capabilities and future technology development.
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/%7Bnurimammasri%7D/count.svg)
 
 <img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
 
